@@ -1,7 +1,7 @@
 
 # DeltaCalc
 <br>
-![deltacalc_logo.png]
+![](./logos/deltacalc_logo.png)
 <br>
 <br>
 <br>
@@ -20,12 +20,8 @@ The graphics in this application were implemented using the Tkinter framework.
 ## Features
 
  - **Standard calculator operations.**
- 
  - **History of operations performed.**
-	  <img src="https://lh3.googleusercontent.com/8BXKTEOb3kcS7NwoVw881GQy4l0OotkT5Pfd74_aYyt9M6qzElwzYMzNHzIHOIauDH6GfM_q4FTkvHb-xbUdM_X0pO-W1EoKB7wEw3WQNzgBmudJaM6qDdFMWLMxixct_ElJ4-ovw4cu-vhHXTnDAL0" width="600"/> 
-	
  - **Settings to change the layout of the application for user readability. (Font, Theme)**
- <img src="https://lh3.googleusercontent.com/7SN4eMcyJW_GohSyyi7ZanitOvMmmzTBnvLGZ1NGfLN4CYKP-_G7mqUfLFeF7IWJsu07yCfDaQ1uWnqLzq8arXBxdYvmqzRPFrU6t4AVvlCrS8-oROn7e9bw8lnQ2fkDTtAp39VGFerlMd4Ymo1wjIBB6Wz9N0a64t_-9_UBjU3hy9BcFu9r87J5kA" width="600"/> 
  
 <br>
 
