@@ -12,7 +12,6 @@ import tkinter.font as font #font for tkinter text
 import math #math will come of importance later on in the program
 from functools import partial #as will this
 from datetime import datetime #getting current date for logging operations in history
-from calc_button import CalcButton
 import os
 
 
