@@ -1,7 +1,7 @@
 
 # DeltaCalc
 <br>
-![](./logos/deltacalc_logo.png)
+<img src="./logos/deltacalc_logo.png" />
 <br>
 <br>
 <br>
@@ -11,10 +11,6 @@ The graphics in this application were implemented using the Tkinter framework.
 
  This application offers arithmetic operations (+, -, *, /, ^, root, modulus)  and functions (sin, cos, tan, log).
 <br>
-
-**![](https://lh4.googleusercontent.com/6ZZkShOif9LqcUuvUD7c9tFzvNJ3ANjCnV2lt6J86e-you0ubb7wc6cdJrWXzyxKP9ii15yjb6De0HbhSrG_21aWt9y7YXWx0gkGrpL85080FqIelf-CjpApi4iORtBreBLsFoXFBmhbp54ZLLPo3p3U3eulKvCeJ8s_JYlXwUsHvjnTknoIyuk9Fw)**
-
-
 <br>
 
 ## Features
