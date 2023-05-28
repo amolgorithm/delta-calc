@@ -12,7 +12,9 @@ The graphics in this application were implemented using the Tkinter framework.
  This application offers arithmetic operations (+, -, *, /, ^, root, modulus)  and functions (sin, cos, tan, log).
 <br>
 <br>
-
+**NOTE: After downloading and extracting the zip file, rename the folder to "DeltaCalc" before executing the program!**
+<br>
+<br>
 ## Features
 
  - **Standard calculator operations.**
@@ -35,6 +37,7 @@ The graphics in this application were implemented using the Tkinter framework.
 The recommended operating systems are Windows, macOS and Linux, as they are most compatible with the Tkinter framework. See more info [here](https://en.wikipedia.org/wiki/Tkinter#:~:text=Tkinter%20is%20included%20with%20standard,and%20macOS%20installs%20of%20Python.).
 <br>
 
+**NOTE: After downloading and extracting the zip file, rename the folder to "DeltaCalc"**
 After downloading zip file and extracting: 
 ```C:\...\>python DeltaCalc```
 <br>
